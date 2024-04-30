@@ -1,0 +1,5 @@
+inicio
+    se (cor(1) == 'PRETO') entao {
+        escrever(1, 'Preto')
+    }
+fim
